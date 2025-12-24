@@ -56,7 +56,7 @@ The system works in real time as follows:
 ---
 
 ## 🔌 Pin Configuration
-
+```text
 Gas Sensor (AO)        → A0
 Flame Sensor (AO)      → A1
 Motor Driver IN3       → Pin 5
@@ -65,7 +65,7 @@ Motor Driver ENB (PWM) → Pin 9
 LED                    → Pin 13
 Buzzer                 → Pin 12
 Common Ground          → All components
-
+```
 ---
 
 💻 Software & Tools
