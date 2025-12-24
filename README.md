@@ -56,7 +56,7 @@ The system works in real time as follows:
 ---
 
 ## 🔌 Pin Configuration
-```text
+
 Gas Sensor (AO)        → A0
 Flame Sensor (AO)      → A1
 Motor Driver IN3       → Pin 5
@@ -65,6 +65,9 @@ Motor Driver ENB (PWM) → Pin 9
 LED                    → Pin 13
 Buzzer                 → Pin 12
 Common Ground          → All components
+
+---
+
 💻 Software & Tools
 Arduino IDE
 
@@ -74,12 +77,16 @@ AutoCAD 2D (Design)
 
 Laser Cutting Machine (Prototype)
 
+---
+
 🚀 Future Enhancements
 Add a cooling sensor for smart car air conditioning safety
 
 Mobile or email notifications for gas/fire alerts
 
 Integration with Alexa or smart home systems
+
+---
 
 👥 Teamwork
 This project was developed as a team project, enhancing:
@@ -91,7 +98,7 @@ Task distribution
 Technical communication
 
 Presentation & PowerPoint skills
-
+---
 ✨ Author
 Aya Eslam
 Faculty of Computers & Information
